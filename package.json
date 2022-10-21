@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Backend - Aula 7",
   "main": "main.js",
-  "test": "echo \"Error: no test specified\" && exit 1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\"",
     "start": "nodemon main.js"
   },
   "author": "Rodrigo Jardim",
